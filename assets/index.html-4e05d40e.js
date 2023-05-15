@@ -1,1 +1,0 @@
-import{_ as t,X as a,Y as r,a0 as e,a1 as s}from"./framework-dac51aaf.js";const i={},c=e("h2",{id:"highlight-features",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#highlight-features","aria-hidden":"true"},"#"),s(" Highlight Features")],-1),h=[c];function n(o,_){return a(),r("div",null,h)}const l=t(i,[["render",n],["__file","index.html.vue"]]);export{l as default};

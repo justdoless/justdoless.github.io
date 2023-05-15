@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://daidaibenben.top/sitemap.xml
+Sitemap: https://justdoless.github.io/sitemap.xml
